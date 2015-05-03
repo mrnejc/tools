@@ -1,4 +1,6 @@
-# About #
+# MrNejc tools & scripts #
+
+## About ##
 
 This is just a small collection of tools and scripts I use in my daily terminal sessions.
 
